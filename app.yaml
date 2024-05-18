@@ -1,0 +1,2 @@
+runtime: nodejs18
+service: service-1-app
